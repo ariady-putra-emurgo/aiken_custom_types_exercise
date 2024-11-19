@@ -23,5 +23,6 @@ pub type LogLevel = {
 
 /// Fix type Team:
 pub type Team = {
-  todo @"Define a type Team, where there's a `team_name` field to store the team's name, a `leader` of type Person and another field named `members` to store multiple persons"
+  todo @"Define a type Team, where there's a `team_name` field to store the team's name,
+  a `leader` of type Person and another field named `members` to store multiple persons"
 }
